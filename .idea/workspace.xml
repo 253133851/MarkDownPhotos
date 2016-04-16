@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b8e0c7-8e53-4ae4-97b6-d67d32f1072f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/番茄钟.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mobile-Bordeaux_Pink.jpg" afterPath="$PROJECT_DIR$/IU/Mobile-Bordeaux_Pink.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mobile-Charcoal_Black.jpg" afterPath="$PROJECT_DIR$/IU/Mobile-Charcoal_Black.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mobile-Cinnabar_Red.jpg" afterPath="$PROJECT_DIR$/IU/Mobile-Cinnabar_Red.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mobile-Lime_Yellow.jpg" afterPath="$PROJECT_DIR$/IU/Mobile-Lime_Yellow.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/Mobile-Viridian_Blue.jpg" afterPath="$PROJECT_DIR$/IU/Mobile-Viridian_Blue.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/PC-Bordeaux_Pink.jpg" afterPath="$PROJECT_DIR$/IU/PC-Bordeaux_Pink.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/PC-Charcoal_Black.jpg" afterPath="$PROJECT_DIR$/IU/PC-Charcoal_Black.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/PC-Cinnabar_Red.jpg" afterPath="$PROJECT_DIR$/IU/PC-Cinnabar_Red.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/PC-Lime_Yellow.jpg" afterPath="$PROJECT_DIR$/IU/PC-Lime_Yellow.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/images/PC-Viridian_Blue.jpg" afterPath="$PROJECT_DIR$/IU/PC-Viridian_Blue.jpg" />
     </list>
     <ignored path="MarkDownPhotos.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -79,7 +69,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -125,6 +115,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarkDownPhotos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MarkDownPhotos" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -136,6 +140,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -574,16 +580,16 @@
       <option name="number" value="Default" />
       <updated>1460804649245</updated>
       <workItem from="1460804650659" duration="215000" />
-      <workItem from="1460804876120" duration="400000" />
+      <workItem from="1460804876120" duration="1007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="615000" />
+    <option name="totallyTimeSpent" value="1222000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -598,7 +604,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2519084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
